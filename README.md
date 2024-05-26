@@ -9,6 +9,7 @@
 
 # Circuit Diagram:
 
+   ![Screenshot 2024-05-26 045227](https://github.com/Parthiban733/LINE-FOLLWER/assets/170818735/321fd3e9-5453-4110-b827-672241fb020d)
 
 # Demo video:
     
