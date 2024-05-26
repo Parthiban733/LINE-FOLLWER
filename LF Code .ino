@@ -5,11 +5,11 @@ const int rightMotor1 = 4;
 const int rightMotor2 = 5;
 
 // Define the IR sensor pins
-const int leftIRSensor1 = 6;
-const int leftIRSensor2 = 7;
-const int centerIRSensor = 8;
-const int rightIRSensor1 = 9;
-const int rightIRSensor2 = 10;
+const int leftIRSensor1 = A0;
+const int leftIRSensor2 = A1;
+const int centerIRSensor = A2;
+const int rightIRSensor1 = A3;
+const int rightIRSensor2 = A4;
 
 void setup() {
   // Initialize motor control pins as outputs
