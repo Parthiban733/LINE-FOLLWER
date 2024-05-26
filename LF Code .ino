@@ -1,8 +1,8 @@
 // Define the motor control pins
-const int leftMotor1 = 2;
-const int leftMotor2 = 3;
-const int rightMotor1 = 4;
-const int rightMotor2 = 5;
+const int leftMotor1 = 3;
+const int leftMotor2 = 4;
+const int rightMotor1 = 5;
+const int rightMotor2 = 6;
 
 // Define the IR sensor pins
 const int leftIRSensor1 = A0;
@@ -89,5 +89,5 @@ void hardRight() {
   digitalWrite(leftMotor1, HIGH);
   digitalWrite(leftMotor2, LOW);
   digitalWrite(rightMotor1, LOW);
-  digitalWrite(rightMotor2, HIGH);
+  digitalWrite(rightMotor2,HIGH);
 }
